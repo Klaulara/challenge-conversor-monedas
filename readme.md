@@ -31,7 +31,7 @@ com.alura.conversormonedas/
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/conversor-monedas-java.git
+   git clone https://github.com/Klaulara/challenge-conversor-monedas.git
     ```
 2. Abre el proyecto en tu IDE preferido.
 3. Asegúrate de tener configurado tu JDK correctamente (Java 17 o superior).
